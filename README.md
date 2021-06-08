@@ -88,3 +88,6 @@ Extension version of TinyMIPS processor, which is an implementation of  for USTB
  - [x] ERET     2021-2-24    11
  - [x] MFC0     2021-2-24    12
  - [x] MTC0     2021-2-24    13
+
+## MIPS-CPU's Design
+![TinyMIPSCPU](https://user-images.githubusercontent.com/77867922/121105713-300f5600-c837-11eb-9a5a-1e3d2a0168be.jpg)
